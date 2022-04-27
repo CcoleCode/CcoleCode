@@ -1,6 +1,6 @@
 
 <head>
-<img src = "Github Banner.png"></img>
+<img src = "Github Banner (2).png"></img>
 </head>
 <body>
 <h1> Welcome to My Github! Feel free to take a look around.</h1>
