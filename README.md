@@ -7,10 +7,10 @@
   
   <h1> Hi there, I'm Chelsea - aka [CcoleCode] 
   
-## I'm a Developer, Project Manager, Image Consultant and Empowerment Coach!
+## I'm a Developer, Project Manager, Writer and Empowerment Coach!
   
 Join me on a journey from sports to fashion to tech.
-I am currently enrolled in a Full Stack Software Development Apprenticeship with an emphasis on JAVA and AWS! Below you will find some of the projects that I have worked on during my time in the program. Some of the projects I am most proud of include the Dad Jokes Application and the Drink Water Application. Check them out!
+I am currently enrolled in a Full Stack Software Development Apprenticeship with an emphasis on JAVA and AWS! Below you will find some of the projects that I have worked on during my time in the program. Some of the projects I am most proud of include the Full Stack Music Application and the Drink Water Application. Check them out!
 
 - 2022 Goals: To implement my new coding skills on a personal project
 - Fun fact: I used to be an international model and professional basketball player
