@@ -5,11 +5,11 @@
 <body>
 
   
-  <h1> Hi there, I'm Chelsea - aka [CcoleCode] 
+  <h1> Hi there, Welcome to my Github [CcoleCode]!
   
-## I'm a Developer, Project Manager, Writer and Empowerment Coach!
+## I'm a Developer, Project Manager, Author and Content Creator!
   
-Join me on a journey from sports to fashion to tech.
+Join me on a journey to blend my background in sports and fashion with tech.
 I am currently enrolled in a Full Stack Software Development Apprenticeship with an emphasis on JAVA and AWS! Below you will find some of the projects that I have worked on during my time in the program. Some of the projects I am most proud of include the Full Stack Music Application and the Drink Water Application. Check them out!
 
 - 2022 Goals: To implement my new coding skills on a personal project
