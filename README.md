@@ -12,7 +12,7 @@
 Join me on a journey to blend my background in sports and fashion with tech.
 I am currently enrolled in a Full Stack Software Development Apprenticeship with an emphasis on JAVA and AWS! Below you will find some of the projects that I have worked on during my time in the program. Some of the projects I am most proud of include the Full Stack Music Application and the Drink Water Application. Check them out!
 
-- 2022 Goals: To implement my new coding skills on a personal project
+- 2022 Goals: To implement my new coding skills on a personal project that combines my experience as a tech savvy fashion entrepreneur and professional basketball player. 
 - Fun fact: In 2018 I created a program that allowed aspiring fashion industry creatives of diverse backgrounds to join me in major fashion capitals around the world for a week of workshops, networking and resume building opportunities. After experiencing the industry as an international runway model for 8 years, I decided it was time to give back and create opportunities for others!
 
 ### Connect with me:
